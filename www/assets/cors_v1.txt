@@ -2,7 +2,7 @@
 # 收集了部分，实验中...
 
 # google
-ssl.google-analytics.com
+
 
 # [public]
 cdn.jsdelivr.net
